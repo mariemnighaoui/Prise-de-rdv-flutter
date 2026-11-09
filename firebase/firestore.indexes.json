@@ -1,0 +1,46 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "rendez_vous",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "medecin",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "rendez_vous",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "medecin",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "documents",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "type",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

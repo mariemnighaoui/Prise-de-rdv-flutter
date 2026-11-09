@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986170120338",
+    "project_id": "prise-de-rdv-acf28",
+    "storage_bucket": "prise-de-rdv-acf28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986170120338:android:ef7df51686c8e10d046e4b",
+        "android_client_info": {
+          "package_name": "com.mycompany.prisederdv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3h8nacEOYhYRD58GSlb-ptryFPhPqzU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
